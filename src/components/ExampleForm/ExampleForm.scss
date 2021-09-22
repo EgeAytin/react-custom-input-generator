@@ -1,0 +1,17 @@
+//react-tel-input
+
+.react-tel-input {
+  .form-control {
+    width: 100% !important;
+    border-radius: 9px!important;
+    height: 50px!important;
+  }
+}
+
+.react-tel-input .selected-flag {
+  border-radius: 9px 0 0 9px !important;
+}
+
+.react-tel-input .flag-dropdown {
+  border-radius: 9px 0 0 9px !important;
+}

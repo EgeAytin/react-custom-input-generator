@@ -1,0 +1,48 @@
+.input-height {
+    height: 50px;
+}
+
+.form-control{
+    border: 1px solid #D4D5E4;
+    border-radius: 9px;
+    padding: 18px .75rem;
+    font-size: 14px;
+}
+
+label {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.modal-content {
+    border-radius: 12px;
+}
+
+.custom-icon-remove{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.validation-message{
+    font-size: 14px;
+    color: #dc3545
+}
+
+.custom-input-description{
+    color: #9494A4;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
